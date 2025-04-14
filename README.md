@@ -34,3 +34,11 @@
 ```bash
 git clone https://github.com/2117Duppy/CalmNest.git
 cd CalmNest
+## 🔗 Local Development Preview
+
+After running the project with `npm run dev`, open your browser and visit:
+
+👉 [http://localhost:5173](http://localhost:5173)
+
+This is the default Vite development server URL.
+
